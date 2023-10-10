@@ -1,8 +1,2 @@
-pandas
-transformers
-loguru
-openai
-tqdm
-typing
-numpy
-progress
+spacy
+nltk
