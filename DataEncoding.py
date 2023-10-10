@@ -4,6 +4,12 @@ import spacy
 import string
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+import openai
+from config import OPENAI
+
+
+openai.api_key = OPENAI
+
 
 # Load spaCy model for tokenization
 nlp = spacy.load("en_core_web_sm")
