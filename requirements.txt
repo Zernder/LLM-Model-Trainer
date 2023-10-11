@@ -1,5 +1,7 @@
 spacy
 nltk
-sqlite3
 openai
 transformers
+datasets
+tqdm
+progressbar2
