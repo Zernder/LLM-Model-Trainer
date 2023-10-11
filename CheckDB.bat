@@ -1,0 +1,3 @@
+python checkdatabase.py
+
+pause
