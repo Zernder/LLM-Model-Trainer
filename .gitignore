@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 
 *config.py
-
+*FuumaTamaPersonality.txt
+*AutumnPersonality.txt
 # C extensions
 *.so
 
